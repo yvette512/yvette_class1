@@ -155,7 +155,7 @@
 # print inital.split(" ")
 # print type(inital.split(" "))
 
-
+print("heyyh")
 inital_string="HELLO EVERYONE"
 
 my_list=['china','japan','USA']
