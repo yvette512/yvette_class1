@@ -153,6 +153,14 @@ hello()
 #     print inital_string.replace("H","p").strip()
 #     print len(inital_string.replace("H","P").strip())
 #
+ll=['b','c','d','b','c','a','a']
+print("c出现的次数：",ll.count('c'))
+ll.sort(reverse=True)
+print("ll从大到小排序",ll)
+ll.reverse()
+print("反转",ll)
+print("将列表转换成字符串:",",".join(ll))
+
 # print type(inital)
 # print inital.split(" ")
 # print type(inital.split(" "))
