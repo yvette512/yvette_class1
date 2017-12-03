@@ -50,7 +50,9 @@
 # #     print("NNNNN")
 #
 # mytype=none
-
+def hello():
+    print("hhhhh")
+hello()
 
 # string 类型的值，若要算平均值需要转换成int或float类型，
 # # 才能计算，但有的版本的python会自动把string转换成数值类型
